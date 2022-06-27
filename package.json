@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/null.lwc-kl3mb65c-fork-l4wmozux",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve sW36uMIz2cvy8fEys41s --open"
+  }
+}
